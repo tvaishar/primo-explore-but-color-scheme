@@ -1,0 +1,10 @@
+{
+  "primary": "#AA111E",
+  "secondary" : "#E4002B",
+  "backgroundColor" : "white",
+  "links": "#118877",
+  "warning": "#002211",
+  "positive": "#79F2E7",
+  "negative": "#FF99A1",
+  "notice": "#557777"
+} 
