@@ -4,18 +4,23 @@ body
 		background-color:#FFFFFF;
 		}
 
-.top-nav-bar
+prm-topbar  .top-nav-bar  /*top menu background*/
 		{
 		color:#E4002B;
 		background-color:#FFFFFF;	
 		}
-prm-topbar.md-button
+.md-button.button-over-dark,prm-topbar .md-button  /* top menu button color */
 		{
 		color:#E4002B;
 		}
 prm-user-area .user-menu-button .user-name
 		{
 		color:#E4002B;	
+		}
+div.product-logo a:hover        /* hover logo */
+		{
+		box-shadow: inset 0 -2px 0 0 #E4002B;	
+		background-color:#FFFFFF;
 		}
 
 /* but-colors.css end */

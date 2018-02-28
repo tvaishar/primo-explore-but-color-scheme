@@ -1,6 +1,6 @@
 {
-  "primary": "#AA111E",
-  "secondary" : "#E4002B",
+  "primary": "#E4002B",
+  "secondary" : "#AA111E",
   "backgroundColor" : "white",
   "links": "#118877",
   "warning": "#002211",
