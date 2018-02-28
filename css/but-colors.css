@@ -1,5 +1,21 @@
 /* but-colors.css begin */
+body	
+		{
+		background-color:#FFFFFF;
+		}
 
-
+.top-nav-bar
+		{
+		color:#E4002B;
+		background-color:#FFFFFF;	
+		}
+prm-topbar.md-button
+		{
+		color:#E4002B;
+		}
+prm-user-area .user-menu-button .user-name
+		{
+		color:#E4002B;	
+		}
 
 /* but-colors.css end */
