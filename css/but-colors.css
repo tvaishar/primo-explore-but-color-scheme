@@ -27,8 +27,12 @@ prm-user-area md-fab-toolbar.md-is-open md-fab-trigger .md-fab-toolbar-backgroun
 		{
 		background-color:#FFFFFF !important;	
 		}
-prm-user-area md-fab-toolbar .md-fab-action-item .md-button
+prm-user-area md-fab-toolbar .md-fab-action-item .md-button, prm-user-area md-fab-toolbar .md-fab-action-item md-input-container, prm-user-area md-fab-toolbar .md-fab-action-item md-input-container md-select /* user area fore color */
 		{
 		color:#E4002B;
+		}
+prm-user-area md-fab-toolbar .md-fab-action-item md-input-container md-select:hover   /* specific hover for language sel. */
+		{
+		color:#FFFFFF;
 		}
 /* but-colors.css end */
