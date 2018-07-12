@@ -2,9 +2,9 @@
   "primary": "#E4002B",
   "secondary" : "#AA111E",
   "backgroundColor" : "white",
-  "links": "#118877",
-  "warning": "#002211",
-  "positive": "#79F2E7",
-  "negative": "#FF99A1",
-  "notice": "#557777"
+  "links": "#5C92BD",
+  "warning": "tomato",
+  "positive": "#0F7D00",
+  "negative": "gray",
+  "notice": "#E08303"
 } 

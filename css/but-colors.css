@@ -23,4 +23,12 @@ div.product-logo a:hover        /* hover logo */
 		background-color:#FFFFFF;
 		}
 
+prm-user-area md-fab-toolbar.md-is-open md-fab-trigger .md-fab-toolbar-background, prm-user-area md-fab-toolbar.md-is-open md-fab-trigger ._md-fab-toolbar-background  /* user area background color */
+		{
+		background-color:#FFFFFF !important;	
+		}
+prm-user-area md-fab-toolbar .md-fab-action-item .md-button
+		{
+		color:#E4002B;
+		}
 /* but-colors.css end */
