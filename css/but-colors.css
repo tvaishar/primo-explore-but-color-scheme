@@ -35,4 +35,10 @@ prm-user-area md-fab-toolbar .md-fab-action-item md-input-container md-select:ho
 		{
 		color:#FFFFFF;
 		}
+.result-item-actions .pin-button						/* pin button color (same as other buttons, which are most likely automatically derived from primary color )*/
+		{
+		color:rgb(228, 0, 43);
+		}
+		
+		
 /* but-colors.css end */
